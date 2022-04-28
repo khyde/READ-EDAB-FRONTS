@@ -1,1 +1,9 @@
-
+_*
+.*
+!.gitignore
+*/NETCDF/*
+*/STATS/*
+*/PNG/*
+*.SAV
+*.nc
+*.PNG
